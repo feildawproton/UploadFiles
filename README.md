@@ -2,12 +2,12 @@
 
 ## On a linux disto
 
-might need to $ chmod +x mvnw
-
 might need to hide mvn folder to .mvn 
 
-need dos2unix
+might need to: $ chmod +x mvnw
 
-run with $ dos2unix ./mvnw spring-boot:run
+need: $ dos2unix mvnw
+
+run: $ ./mvnw spring-boot:run
 
 
